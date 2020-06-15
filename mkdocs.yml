@@ -1,8 +1,5 @@
-site_name: SitePoint Documentation
-site_description: Description of the description
+site_name: Testing Documentation
+nav:
+  - Home: index.md
+  - About: about.md
 theme: readthedocs
-pages:
-  - ['index.md', 'Index']
-  - ['start.md', 'Get Started']
-  - ['config/setup.md', 'Configuration', 'Setup']
-  - ['config/debug.md', 'Configuration', 'Debug']
